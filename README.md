@@ -13,6 +13,9 @@ The analysis uses aggregated datasets provided by the Unique Identification Auth
 - Aadhaar Enrolment Dataset
 - Aadhaar Demographic Update Dataset
 - Aadhaar Biometric Update Dataset
+  
+## Data Availability
+This repository includes anonymized and aggregated Aadhaar datasets used for the analysis. The datasets contain no individual-level or personally identifiable information and are shared for academic and demonstration purposes only.
 
 ## Methodology
 - Filtered data for Maharashtra
