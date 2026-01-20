@@ -27,6 +27,7 @@ This repository includes anonymized and aggregated Aadhaar datasets used for the
 The notebook generates:
 - Age-wise monthly trend plots
 - District-wise heatmaps showing activity intensity
+- The `plots/` folder contains selected visual outputs generated from the analysis, including age-wise trend charts and district-level heatmaps for Aadhaar enrolment, demographic updates, and biometric updates.
 
 ## Tools Used
 - Python
